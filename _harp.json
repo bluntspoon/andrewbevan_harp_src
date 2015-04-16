@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "title": "Andrew Bevan",
+    "author": "Andrew Bevan",
+    "description": "Andrew Bevan on Web, Code, Technology and Life",
+    "keywords": "Andrew Bevan, About, Blog, .NET, Blogger, Career Development, Code Quality, Online Identity, Personal Development, Product Review, ReSharper, Twitter, Visual Studio, Windows, CSharp, C#",
+    "site_url": "http://andrewbevan.me",
+    "site_twitter": "bluntspoon",
+    "logo": "/images/logo.png",
+    "disqus_account": "bluntspoon",
+    "analytics_account": ""
+  }
+}

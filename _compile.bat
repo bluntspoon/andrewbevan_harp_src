@@ -1,0 +1,1 @@
+harp compile --output ../bluntspoon.github.io
